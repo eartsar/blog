@@ -19,7 +19,7 @@ Not all destinations are listed there, nor are those the actual routes we'll be 
 * Ah... the **Grand Canyon**, the American Wonder that's allegedly *not* overrated.
 * After that, we're going to go straight to **Las Vegas**, where we'll be meeting up with a dozen or so friends of mine. Three days. We've got shows planned here, but since people from work might be reading this, I can't go into more detail.
 * Meandering north will take us to **Sacramento**, where we'll be staying with more friends. We'll spend a day in San Fransisco while we're here.
-* A long hike north, passing **Crater Lake** on the way, will take us to **Porland**. Childhood friend lives there, and hopefully we'll be staying with her. A rest day follows.
+* A long hike north, passing **Crater Lake** on the way, will take us to **Portland**. Childhood friend lives there, and hopefully we'll be staying with her. A rest day follows.
 * An even *longer* hike gets us to **Rigby** in Idaho, just an hour out from Yellowstone. We'll meander through the next day (the whole day!), and end up in **Cody**, Wyoming. It's supposed to be beautiful. Two nights in a cabin.
 * Heading over to **Rapid City** for Rushmore - an American Wonder that allegedly *is* overrated.
 * Minneapolis is up next. Passing through, but we'll take our time in doing so.
