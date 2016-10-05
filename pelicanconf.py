@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Lap One', '#'), ("Eitan's Posts", '/category/eitan-posts.html'), ("Aron's Posts", '/category/aron-posts.html'))
+LINKS = (('Lap One', '/'), ("Eitan's Posts", '/category/eitan-posts.html'), ("Aron's Posts", '/category/aron-posts.html'))
 
 # Social widget
 # SOCIAL = None
