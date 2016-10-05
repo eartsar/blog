@@ -21,6 +21,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Lap One', '/'),
+    ("The Map", 'https://roadtrippers.com/map?a2=t!10381588&lat=36.40037&lng=-110.68699&utm_campaign=trip&utm_medium=share&utm_source=copy&z=4'),
     ("Eitan's Posts", '/category/eitan-posts.html'),
     ("Aron's Posts", '/category/aron-posts.html'),
     ("Eitan's Instagram", 'https://www.instagram.com/eitanromanoff/'),
