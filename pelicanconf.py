@@ -20,7 +20,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Lap One', '/'), ("Eitan's Posts", '/category/eitan-posts.html'), ("Aron's Posts", '/category/aron-posts.html'))
+LINKS = (('Lap One', '/'),
+    ("Eitan's Posts", '/category/eitan-posts.html'),
+    ("Aron's Posts", '/category/aron-posts.html'),
+    ("Eitan's Instagram", 'https://www.instagram.com/eitanromanoff/'),
+    ("Aron's Instagram", 'https://www.instagram.com/ar0ney/'))
 
 # Social widget
 # SOCIAL = None
