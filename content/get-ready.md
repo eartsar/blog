@@ -4,7 +4,7 @@ Category: Eitan Posts
 
 ### About This Trip
 Chances are this isn't coming as a complete surprise to you, if you're reading this, but I'm going on a road trip. My first, actually. I've got some pretty horrible company, and we'll undoubtedly be listening to King Kunta on repeat for hours. **It's my first lap around the country**.
-[Roadtrippers Link](https://www.google.com)  
+[Roadtrippers Link](https://roadtrippers.com/map?a2=t!10381588&lat=36.40037&lng=-110.68699&utm_campaign=trip&utm_medium=share&utm_source=copy&z=4)
   
 <a id="embed-10381588" href="https://roadtrippers.com/map?a2=t!10381588&lat=42.94034&lng=-82.34253&utm_campaign=trip&utm_medium=share&utm_source=embed&z=6">There and Back Again on Roadtrippers</a><br><script>!function(d,l,h,w,id){var a = d.getElementById(id);var ifr = d.createElement("iframe");ifr.src = l;ifr.height = h;ifr.width = w;a.parentNode.insertBefore(ifr, a);a.parentNode.removeChild(a);}(document,"https://roadtrippers.com/embedded/trips/10381588",400,760,"embed-10381588");</script>
 

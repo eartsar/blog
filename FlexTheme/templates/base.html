@@ -66,7 +66,7 @@
   {% endif %}
   <aside>
     <div>
-      <a href="{{ SITEURL }}">
+      <a href="/">
         {% if SITELOGO %}
         <img src="{{ SITELOGO }}" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
         {% else %}
@@ -85,7 +85,7 @@
           {% endfor %}
 
           {% for name, link in LINKS %}
-          
+
           <li><a href="{{ link }}" target="_self">{{ name }}</a></li>
           {% endfor %}
         </ul>
