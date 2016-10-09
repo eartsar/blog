@@ -26,4 +26,6 @@ Finally, we arrived at New Orleans at sunset. Seeing swampland was a bit of a su
 
 We got back to the hotel at around Midnight (it's 1 A.M. personal time, and we woke up really early today...). We're completely spent. Aron and I are going to sleep in a bit tonight, and head to the French Quarter tomorrow during the day, when it's generally safer to roam around and explore. If we're feeling brave, we'll check out Bourbon Street (tons of debauchery, and sinful pleasures for all types) tomorrow. If we feel out of our league, I may drag us back to Frenchman Street for more live music. It really was fantastic, and New Orleans warrants an entire vacation of its own.
 
-I was a bit long-winded today - we did a lot! As per usual, check out [my instagram](https://www.instagram.com/eitanromanoff/) for more if you care to look.
+After today, I think it's finally sunk in that I'm on a road trip around the country. It didn't feel real until now. I've never been so far out of my comfort zone (who would honestly call *me* adventurous?) before. It's kind of nice.
+
+I was a bit long-winded today - we did a lot! We've also passed the 1500 mile mark, so that's neat. As per usual, check out [my instagram](https://www.instagram.com/eitanromanoff/) for more if you care to look.
