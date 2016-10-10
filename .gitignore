@@ -59,3 +59,4 @@ venv
 node_modules
 
 output
+pelicanconf.py
