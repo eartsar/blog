@@ -23,6 +23,6 @@ Being in Santa Fe, it was only appropriate that we had some spanish style food. 
 
 Our AirBnB room this time is with a young couple who are super chill and awesome. The house is beautiful, and we traded some VT goodies for some NM goodies. Two pepper beers? What's a pepper beer... We'll have to try it tomorrow when not on the road...
 
-We'll spend some more time in Santa Fe, tomorrow. As per usual - fantastic town/city, and deserving of its own trip. We depart early tomorrow afternoon for **Flagstaff, AZ**. We won't be seeing the Grand Canyon tomorrow, though. Rather, we'll likely to the following day super early to see it at sunrise. Dope.
+We'll spend some more time in Santa Fe, tomorrow. As per usual - fantastic town/city, and deserving of its own trip. We depart early tomorrow afternoon for **Flagstaff, AZ**. We won't be seeing the Grand Canyon tomorrow, though. Rather, we'll likely go the following day super early to see it at sunrise. Dope.
 
 More at [Instagram](https://www.instagram.com/eitanromanoff/)
