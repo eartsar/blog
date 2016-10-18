@@ -1,5 +1,5 @@
 Title: Day Nine & Ten (Las Vegas)
-Date: 2016-10-15 02:25
+Date: 2016-10-17 22:01
 Category: Eitan Posts
 
 ### Vegas was fun, but our trip continues...
