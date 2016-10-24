@@ -1,4 +1,4 @@
-Title: Day Eighteen & Nineteen (Yellowstone)
+Title: Day Eighteen & Nineteen (Cody)
 Date: 2016-10-24 00:24
 Category: Eitan Posts
 
