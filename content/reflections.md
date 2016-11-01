@@ -6,6 +6,31 @@ Category: Eitan Posts
 
 ... And I'm a little exhausted, to say the least. I feel like I have a lot to say, but it's still not yet fully absorbed. Every time I open up my text editor to write something about this trip, I wonder if I'm doing wrong by my experience in only picking small pieces to talk about. It makes this writing feel a little shallow, and incomplete, but hopefully that despite my inability (and complete inexperience in both traveling and writing) to write a book, this will do. Here are some things people have asked me along the way, that I finally have time to answer.
 
+Remember that poet from Portland? The poem he wrote for me is apt here.
+
+<pre>
+  END OF THE ROAD
+  i am returning home
+         after a journey
+                 that I will never forget
+                 for it has changed me
+                and enlightened me
+             to just how big this country is
+                     with so much diversity
+                           state to state
+                   I followed the map of fate
+                        stopping and wishing
+                           I could stay
+                   now I am inspired to
+                        return to places
+                     I left too soon
+                 until then I have a wealth of
+                      memories to replay
+             cherished day after day
+</pre>
+
+Visit his website [here](http://www.typewritertroubadour.com/).
+
 ***
 
 **How and why did you intend to record your trip?**
