@@ -45,7 +45,7 @@ It felt awkward for the first two nights (didn't help that I was somewhat sick),
 
 **What were your favorite parts of the trip?**
 
-While my gut feeling is that it's somewhat wrong to choose favorite parts of the trip, there were definitely moments that stood out to me. **New Orleans** was easily my favorite *city* out of all of the cities we had visited. The food, the music, and the lifestyle was infectious. People say that it's a place best visited during Mardi Gras, but honestly, the parties don't stop on Frenchman Street - they just get even more crowded. I personally would be more inclined to visit during Halloween, where there are likely to be less bachelorette parties, and more street-side shows going on.
+While my gut feeling is that it's somewhat wrong to choose favorite parts of the trip, there were definitely moments that stood out to me. **New Orleans** was easily my favorite *city* out of all of the cities we had visited. The food, the music, and the lifestyle were infectious. People say that it's a place best visited during Mardi Gras, but honestly, the parties don't stop on Frenchman Street - they just get even more crowded. I personally would be more inclined to visit during Halloween, where there are likely to be less bachelorette parties, and more street-side shows going on.
 
 **The Grand Canyon** at sunrise was easily my favorite *moment* of the trip. It's massive, and the canyon takes up the entirety of your view - it's a sight that's not overrated. However, I can't imagine seeing the canyon at any other time except sunrise (or maybe sunset), where it's constantly changing colors, and the natural shadows sort of stretch out from each outcrop. There are also fewer people around, and it's much easier to get a really good spot without wading through crowds.
 
@@ -57,7 +57,7 @@ While these are my picks for superlatives, there were so many highlights of the 
 
 **What were your *least* favorite parts of the trip?**
 
-I didn't care for the southern stretch of the trip nearly as much as the rest, with the exception of NOLA. We found plenty of things to enjoy (the beaches by the Gulf of Mexico, the Texas State Fair), but overall, it wasn't really so compelling. At one point we had went into a small store in Alabama that had a sign saying "those with baggy pants are not welcome here". When looking at the locals, and their fashion habits, it was easy to see which groups were being targeted by such a sign. The Texas State Fair - while Aron really liked it - felt really trashy. It's all of the unflattering things you get in a fair, except ten times bigger. The Champlain Valley Fair was much higher in terms of quality.
+I didn't care for the southern stretch of the trip nearly as much as the rest, with the exception of NOLA. We found plenty of things to enjoy (the beaches by the Gulf of Mexico, the Texas State Fair), but overall, it wasn't really so compelling. At one point we had gone into a small store in Alabama that had a sign saying "those with baggy pants are not welcome here". When looking at the locals, and their fashion habits, it was easy to see which groups were being targeted by such a sign. The Texas State Fair - while Aron really liked it - felt really trashy. It's all of the unflattering things you get in a fair, except ten times bigger. The Champlain Valley Fair was much higher in terms of quality.
 
 In terms of driving, I assert that I have no idea what purpose Idaho serves to this country outside of supplying us with potatoes.
 
