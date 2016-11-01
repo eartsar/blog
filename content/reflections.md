@@ -105,7 +105,7 @@ For a more filled out six week trip, I'd do what I mentioned above, but spend a 
 
 **Music? Also, what's with King Kunta?**
 
-When I was driving, I found myself returning to **Odesza**, **Thievery Corperaetion**, and **CHVRCHES** a lot. Aron did a lot of **Panic! At the Disco**. We listened to the entire **Incubus** discography at least once.
+When I was driving, I found myself returning to **Odesza**, **Thievery Corporation**, and **CHVRCHES** a lot. Aron did a lot of **Panic! At the Disco**. We listened to the entire **Incubus** discography at least once.
 
 When sick of music, we finished up the Riyria Revelations audiobooks.
 
