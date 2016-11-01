@@ -6,7 +6,7 @@ Category: Eitan Posts
 
 ... And I'm a little exhausted, to say the least. I feel like I have a lot to say, but it's still not yet fully absorbed. Every time I open up my text editor to write something about this trip, I wonder if I'm doing wrong by my experience in only picking small pieces to talk about. It makes this writing feel a little shallow, and incomplete, but hopefully that despite my inability (and complete inexperience in both traveling and writing) to write a book, this will do. Here are some things people have asked me along the way, that I finally have time to answer.
 
-Remember that poet from Portland? The poem he wrote for me is apt here.
+Remember [that poet from Portland](http://www.eartsar.com/day-fifteen-portland.html#day-fifteen-portland)? The poem he wrote for me is apt here.
 
 <pre>
   END OF THE ROAD
