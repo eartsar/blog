@@ -40,5 +40,5 @@ We left the park at sunset through the northeastern gate, and poor Aron drove us
 
 I woke up early to excellent conversation with my Cody, WY AirBnB hosts ([here's a link to the listing](https://www.airbnb.com/rooms/7074708?guests=1&s=41&user_id=45085958&ref_device_id=f1884a3f398e525), HIGHLY RECOMMEND IT), and then wrangled some horses with them. We'll be seeing a bunch of stuff here in Cody (and maybe making the hour trek back to Yellowstone, if Aron ever wakes up), so I'll have more to post on this beautiful corner of the country tomorrow.
 
-Until then, there are plenty of other pictures, as per usual, at my [Instagram](instagram.com/eitanromanoff/). Though, you can just as easily book a flight to come out here yourself.
+Until then, there are plenty of other pictures, as per usual, at my [Instagram](https://www.instagram.com/eitanromanoff/). Though, you can just as easily book a flight to come out here yourself.
 
