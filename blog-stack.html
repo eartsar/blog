@@ -1,0 +1,149 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/theme/stylesheet/style.min.css">
+
+  <link rel="stylesheet" type="text/css" href="/theme/pygments/github.min.css">
+  <link rel="stylesheet" type="text/css" href="/theme/font-awesome/css/font-awesome.min.css">
+
+
+    <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Lap One Atom">
+
+
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="" />
+
+
+<meta name="author" content="Eitan Romanoff" />
+<meta name="description" content="How to set up a static generated blog in literally 10 minutes. Get an account at www.digitalocean.com and get a minimal VPS for 5 dollars a month. Get a domain at www.namecheap.com for 5 dollars a year. Install python 3 because you're not an asshole ..." />
+<meta name="keywords" content="">
+<meta property="og:site_name" content="Lap One"/>
+<meta property="og:title" content="Blog Stack"/>
+<meta property="og:description" content="How to set up a static generated blog in literally 10 minutes. Get an account at www.digitalocean.com and get a minimal VPS for 5 dollars a month. Get a domain at www.namecheap.com for 5 dollars a year. Install python 3 because you're not an asshole ..."/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:url" content="/blog-stack.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2016-10-04 19:00:00-04:00"/>
+<meta property="article:modified_time" content=""/>
+<meta property="article:author" content="/author/eitan-romanoff.html">
+<meta property="article:section" content="Eitan Posts"/>
+<meta property="og:image" content="">
+
+  <title>Lap One &ndash; Blog Stack</title>
+</head>
+<body>
+  <aside>
+    <div>
+      <a href="/">
+        <img src="/theme/img/bros.jpg" alt="" title="">
+      </a>
+      <h1><a href=""></a></h1>
+
+
+      <nav>
+        <ul class="list">
+
+
+          <li><a href="/" target="_self">Lap One</a></li>
+
+          <li><a href="https://roadtrippers.com/map?a2=t!10381588&lat=36.40037&lng=-110.68699&utm_campaign=trip&utm_medium=share&utm_source=copy&z=4" target="_self">The Map</a></li>
+
+          <li><a href="/category/eitan-posts.html" target="_self">Eitan's Posts</a></li>
+
+          <li><a href="/category/aron-posts.html" target="_self">Aron's Posts</a></li>
+
+          <li><a href="https://www.instagram.com/eitanromanoff/" target="_self">Eitan's Instagram</a></li>
+
+          <li><a href="https://www.instagram.com/ar0ney/" target="_self">Aron's Instagram</a></li>
+        </ul>
+      </nav>
+
+      <ul class="social">
+      </ul>
+    </div>
+  </aside>
+  <main>
+
+<article>
+  <header>
+    <h1 id="blog-stack">Blog Stack</h1>
+    <p>
+          Posted on Tue 04 October 2016 in <a href="/category/eitan-posts.html">Eitan Posts</a>
+
+
+    </p>
+  </header>
+  <div>
+    <p>How to set up a static generated blog in literally 10 minutes.  </p>
+<ol>
+<li>Get an account at <strong>www.digitalocean.com</strong> and get a minimal VPS for 5 dollars a month.</li>
+<li>Get a domain at <em>www.namecheap.com</em> for 5 dollars a year.</li>
+<li>Install <strong>python 3</strong> because you're not an asshole who keeps the python 2 ecosystem alive.</li>
+<li>Install <strong>virtualenv</strong> and <strong>virtualenvwrapper</strong>, because you're not a barbarian. This isn't Java, we have easy to manage virtual environments.</li>
+<li>Install <strong>pip3</strong> because come on. Maven? Get real, guys.</li>
+<li><strong>pip install pelican</strong> </li>
+<li>Fumble around with <strong>ufw</strong> firewall rules until you somehow, by sheer luck and magic, get port 8000 open. Do it again for port 80.</li>
+<li>Google for how to forward traffic from 80 to 8000. We're using the test server packaged with pelican, we don't have time for anything else.</li>
+<li>You want an awesome theme for your blog. So steal the most minimal, sleekest one wholesale from the themes repository, and drop it into your blog directory so you can inevitably change something you weren't supposed to touch later, thus breaking the blog. Don't worry, a reinstall takes 10 minutes.</li>
+<li>Just make up some posts. Honestly, I could write them all in advance, and no one would know any better.</li>
+<li>Generate the blog content and host it.</li>
+<li>Shit, we forgot to run in a screen window.</li>
+<li>Re-run in a screen session.</li>
+<li>Google those stupid screen shortcuts. Control + a, d...</li>
+<li>Serve the blog out of the wrong content directory</li>
+<li>Kill the process</li>
+<li>Serve the blog out of the correct content directory</li>
+<li>Wait 20 minutes for the domain to properly register and forward the traffic.</li>
+</ol>
+  </div>
+  <div class="tag-cloud">
+    <p>
+    </p>
+  </div>
+
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'laponeblog';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>
+        Please enable JavaScript to view comments.
+
+</noscript>
+</article>
+
+    <footer>
+<p>&copy; Eitan Romanoff </p>
+<p>    Powered by <a href="http://getpelican.com" target="_blank">Pelican</a> - <a href="https://github.com/alexandrevicenzi/flex" target="_blank">Flex</a> theme by <a href="http://alexandrevicenzi.com" target="_blank">Alexandre Vicenzi</a>
+</p>    </footer>
+  </main>
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Blog",
+  "name": " Lap One ",
+  "url" : "",
+  "image": "",
+  "description": ""
+}
+</script>
+</body>
+</html>
