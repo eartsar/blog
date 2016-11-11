@@ -60,3 +60,4 @@ node_modules
 
 output
 pelicanconf.py
+publishconf.py
