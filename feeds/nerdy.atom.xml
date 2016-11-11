@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Eitan's Everything Blog</title><link href="https://eartsar.github.io/blog/" rel="alternate"></link><link href="https://eartsar.github.io/blog/feeds/nerdy.atom.xml" rel="self"></link><id>https://eartsar.github.io/blog/</id><updated>2016-10-04T19:00:00-04:00</updated><entry><title>Blog Stack</title><link href="https://eartsar.github.io/blog/blog-stack.html" rel="alternate"></link><published>2016-10-04T19:00:00-04:00</published><updated>2016-10-04T19:00:00-04:00</updated><author><name>Eitan Romanoff</name></author><id>tag:eartsar.github.io,2016-10-04:blog/blog-stack.html</id><summary type="html">&lt;p&gt;How to set up a static generated blog in literally 10 minutes.  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Get an account at &lt;strong&gt;www.digitalocean.com&lt;/strong&gt; and get a minimal VPS for 5 dollars a month.&lt;/li&gt;
+&lt;li&gt;Get a domain at &lt;em&gt;www.namecheap.com&lt;/em&gt; for 5 dollars a year.&lt;/li&gt;
+&lt;li&gt;Install &lt;strong&gt;python 3&lt;/strong&gt; because you're not an asshole who keeps the python 2 ecosystem alive.&lt;/li&gt;
+&lt;li&gt;Install &lt;strong&gt;virtualenv&lt;/strong&gt; and &lt;strong&gt;virtualenvwrapper&lt;/strong&gt;, because you're not a barbarian. This isn't Java, we have easy to manage virtual environments.&lt;/li&gt;
+&lt;li&gt;Install &lt;strong&gt;pip3&lt;/strong&gt; because come on. Maven? Get real, guys.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;pip install pelican&lt;/strong&gt; &lt;/li&gt;
+&lt;li&gt;Fumble around with &lt;strong&gt;ufw&lt;/strong&gt; firewall rules until you somehow, by sheer luck and magic, get port 8000 open. Do it again for port 80.&lt;/li&gt;
+&lt;li&gt;Google for how to forward traffic from 80 to 8000. We're using the test server packaged with pelican, we don't have time for anything else.&lt;/li&gt;
+&lt;li&gt;You want an awesome theme for your blog. So steal the most minimal, sleekest one wholesale from the themes repository, and drop it into your blog directory so you can inevitably change something you weren't supposed to touch later, thus breaking the blog. Don't worry, a reinstall takes 10 minutes.&lt;/li&gt;
+&lt;li&gt;Just make up some posts. Honestly, I could write them all in advance, and no one would know any better.&lt;/li&gt;
+&lt;li&gt;Generate the blog content and host it.&lt;/li&gt;
+&lt;li&gt;Shit, we forgot to run in a screen window.&lt;/li&gt;
+&lt;li&gt;Re-run in a screen session.&lt;/li&gt;
+&lt;li&gt;Google those stupid screen shortcuts. Control + a, d...&lt;/li&gt;
+&lt;li&gt;Serve the blog out of the wrong content directory&lt;/li&gt;
+&lt;li&gt;Kill the process&lt;/li&gt;
+&lt;li&gt;Serve the blog out of the correct content directory&lt;/li&gt;
+&lt;li&gt;Wait 20 minutes for the domain to properly register and forward the traffic.&lt;/li&gt;
+&lt;/ol&gt;</summary></entry></feed>
