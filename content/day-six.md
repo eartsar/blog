@@ -1,6 +1,6 @@
 Title: Day Six (Dallas)
 Date: 2016-10-10 23:10
-Category: Eitan Posts
+Category: lap-one
 
 ### My parents are going to freak out when they read this. Which is why I'm posting it a day late, after we've already left Dallas...
 

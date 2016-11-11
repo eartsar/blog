@@ -1,6 +1,6 @@
 Title: Road Trip Reflections
 Date: 2016-11-01 13:40
-Category: Eitan Posts
+Category: lap-one
 
 ### In four short weeks, I have driven through significant portions of **26 states**, for a total of over **140 car hours**, for **nearly 9,000 miles**...
 

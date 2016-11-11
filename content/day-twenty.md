@@ -1,6 +1,6 @@
 Title: Day Twenty through Twenty Four (Rapid City, Badlands, Minneapolis, Chicago)
 Date: 2016-10-28 02:00
-Category: Eitan Posts
+Category: lap-one
 
 ### Is it sad that the majority of my US history comes from visiting memorials, and watching The West Wing...
 

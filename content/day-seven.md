@@ -1,6 +1,6 @@
 Title: Day Seven (Santa Fe)
 Date: 2016-10-11 21:55
-Category: Eitan Posts
+Category: lap-one
 
 ### After hours of nothingness, we're surprised by a beautiful town in the mountains...
 

@@ -1,6 +1,6 @@
 Title: Day Nine & Ten & Eleven (Las Vegas)
 Date: 2016-10-15 02:25
-Category: Eitan Posts
+Category: lap-one
 
 ### We woke up at 4 AM on Thursday morning...
 

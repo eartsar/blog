@@ -1,6 +1,6 @@
 Title: Day Fifteen (Portland)
 Date: 2016-10-20 00:28
-Category: Eitan Posts
+Category: lap-one
 
 ### We've officially passed the half way point...
 

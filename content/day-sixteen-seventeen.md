@@ -1,6 +1,6 @@
 Title: Day Sixteen & Seventeen (Yellowstone)
 Date: 2016-10-22 08:00
-Category: Eitan Posts
+Category: lap-one
 
 ### The beauty of the northwest United States can't really be overstated...
 

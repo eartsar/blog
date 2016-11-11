@@ -1,6 +1,6 @@
 Title: Day Twenty Five through Twenty Seven (Cedar Point, Rochester, Home)
 Date: 2016-11-1 01:22
-Category: Eitan Posts
+Category: lap-one
 
 ### Climactic thrills followed by familiarity...
 

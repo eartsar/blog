@@ -1,6 +1,6 @@
 Title: Day Two (D.C.)
 Date: 2016-10-07 07:23
-Category: Eitan Posts
+Category: lap-one
 
 ### Washing D.C. was pretty cool...
 

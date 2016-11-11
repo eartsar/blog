@@ -1,6 +1,6 @@
 Title: Get Ready
 Date: 2016-10-04 18:00
-Category: Eitan Posts
+Category: lap-one
 
 ### About This Trip
 Chances are this isn't coming as a complete surprise to you, if you're reading this, but I'm going on a road trip. My first, actually. I've got some pretty horrible company, and we'll undoubtedly be listening to King Kunta on repeat for hours. **It's my first lap around the country**.

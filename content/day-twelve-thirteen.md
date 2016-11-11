@@ -1,6 +1,6 @@
 Title: Day Twelve & Thirteen (Sacramento)
 Date: 2016-10-17 22:01
-Category: Eitan Posts
+Category: lap-one
 
 ### Vegas was fun, but our trip continues...
 

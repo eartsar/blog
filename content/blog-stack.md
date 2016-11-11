@@ -1,6 +1,6 @@
 Title: Blog Stack
 Date: 2016-10-04 19:00
-Category: Eitan Posts
+Category: nerdy
 
 How to set up a static generated blog in literally 10 minutes.  
 

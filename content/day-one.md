@@ -1,6 +1,6 @@
 Title: Day One (D.C.)
 Date: 2016-10-06 00:44
-Category: Eitan Posts
+Category: lap-one
 
 ### So we were off to a great start...
 

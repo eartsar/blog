@@ -1,6 +1,6 @@
 Title: Day Eighteen & Nineteen (Cody)
 Date: 2016-10-24 00:24
-Category: Eitan Posts
+Category: lap-one
 
 ### [O](https://www.poetryfoundation.org/poems-and-poets/poems/detail/53084) hushed October morning mild, begin the hours of this day slow...
 

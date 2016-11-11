@@ -1,6 +1,6 @@
 Title: Day Fourteen (Portland)
 Date: 2016-10-19 11:02
-Category: Eitan Posts
+Category: lap-one
 
 ### A beautiful drive north leads us to Portland, Oregon...
 

@@ -1,6 +1,6 @@
 Title: Day Four (Gulf Shores, New Orleans)
 Date: 2016-10-09 01:18
-Category: Eitan Posts
+Category: lap-one
 
 ### We made our way westward, along the Gulf of Mexico...
 

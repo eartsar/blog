@@ -1,6 +1,6 @@
 Title: Day Three (Atlanta)
 Date: 2016-10-08 00:26
-Category: Eitan Posts
+Category: lap-one
 
 ### 12 hours, and a lot of rain later...
 

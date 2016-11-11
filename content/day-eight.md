@@ -1,6 +1,6 @@
 Title: Day Eight (Santa Fe, Flagstaff)
 Date: 2016-10-12 20:25
-Category: Eitan Posts
+Category: lap-one
 
 ### We made it to Flagstaff, but it was difficult...
 
